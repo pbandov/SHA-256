@@ -1,5 +1,3 @@
-'''SHA-256 OPTIMIZED '''
-
 import os, time
 
 #Constants, strings and working variables:
